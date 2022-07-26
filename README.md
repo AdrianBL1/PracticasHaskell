@@ -1,4 +1,6 @@
 # PracticasHaskell
+![Descripción de la imagen](https://www.haskell.org/img/haskell-logo.svg)
+
 Practicas y Ejercicios simples en Haskell
 
 Prácticas
@@ -50,3 +52,5 @@ Ejercicios
 * Función que multiplica los elementos de una lista (guardas)
 * Función que regrese el valor de una posicion de la lista
 * Función que cuente los numeros imapres de una lista
+
+!!! El proposito de éste repositorio es la de compartir conocimiento.
